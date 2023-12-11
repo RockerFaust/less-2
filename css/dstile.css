@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cont {
+    width: 1170px;
+    margin: 0  auto;
+    display: flex;
+}
+.box {
+    background: rgb(35,8,240);
+    background: linear-gradient(90deg, rgba(35,8,240,1) 0%, rgba(0,255,106,1) 100%);
+}
+.box_inner {
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.simvol {
+    color: whitesmoke;
+    font-size: 90px;
+    margin: 10px;
+}
+.podbox_inner {
+    
+}
+.ciclo {
+    font-size: 40px;
+    color: wheat;
+}
+.text {
+    color: white;
+    font-size: 15px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+
+}
